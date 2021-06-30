@@ -1,0 +1,19 @@
+{
+  "name": "engage-project",
+  "version": "1.0.0",
+  "description": "My engage project",
+  "main": "sErVer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Charishma",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
+  }
+}
